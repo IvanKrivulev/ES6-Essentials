@@ -1,2 +1,2 @@
 # ES6-Essentials
-udemy course
+Udemy Course
